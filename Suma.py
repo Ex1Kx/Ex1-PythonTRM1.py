@@ -1,0 +1,5 @@
+num1 = input("Ingrese el primer numero: ")
+num2 = input("Ingrese el segundo numero: ")
+num3 = input("Ingrese el tercer numero: ")
+suma = int(num1) + int(num2) + int(num3)
+print  ("El resultado de la suma es: " + str(suma))
